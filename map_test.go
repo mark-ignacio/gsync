@@ -3,7 +3,7 @@ package gsync_test
 import (
 	"testing"
 
-	gsync "github.com/mark-ignacio/gsyncmap"
+	"github.com/mark-ignacio/gsync"
 )
 
 // Runs tests in parallel in order to race condition the heck out of it all
